@@ -1,0 +1,14 @@
+{
+    "require": {
+        "bipin/str": "@dev"
+    },
+    "repositories": [
+        {
+            "type": "path",
+            "url": "./packages/str",
+            "options": {
+                "symlink": true
+            }
+        }
+    ]
+}

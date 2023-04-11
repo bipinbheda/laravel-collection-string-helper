@@ -1,0 +1,11 @@
+{
+    "name": "bipin/str",
+    "require": {
+        "illuminate/collections": "^8.83"
+    },
+    "autoload": {
+        "psr-4": {
+            "Bipin\\": "src/"
+        }
+    }
+}
